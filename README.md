@@ -2,6 +2,12 @@
 
 This Python code allows you to capture images from your webcam and detect specific objects using pre-trained Haar Cascade classifiers. The detected objects are surrounded by bounding boxes and labeled with text. The code is designed to run in a Jupyter Notebook or Google Colab environment, with some adjustments required for Google Colab.
 
+## Motivating Article and Related Works
+S. Wattamwar, R. Mate, P. Rainchwar, S. Mantri and G. Sorate, "Optimal Face Recognition System using Haar Classifier," 2021 International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON), Pune, India, 2021, pp. 1-7, doi: 10.1109/SMARTGENCON51891.2021.9645879.
+
+## Tools
+Haarcascades https://github.com/opencv/opencv/tree/master/data/haarcascades
+
 ## Features
 
 - Real-time video stream from the webcam
