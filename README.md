@@ -14,8 +14,14 @@ This Python code allows you to capture images from your webcam and detect specif
 
 ## Results
 
+### Captured Face
+![](https://github.com/ericyoc/google_co-lab_haarcascade_capture_poc/blob/main/captured_face_with_menu.jpg)
+
 ### Captured Eyes
 ![](https://github.com/ericyoc/google_co-lab_haarcascade_capture_poc/blob/main/captured_eyes_with_menu.jpg)
+
+### Captured Smile
+![](https://github.com/ericyoc/google_co-lab_haarcascade_capture_poc/blob/main/captured_smile_with_menu.jpg)
 
 ## Prerequisites
 
