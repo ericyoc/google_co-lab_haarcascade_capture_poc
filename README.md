@@ -5,6 +5,8 @@ This Python code allows you to capture images from your webcam and detect specif
 ## Motivating Article and Related Works
 S. Wattamwar, R. Mate, P. Rainchwar, S. Mantri and G. Sorate, "Optimal Face Recognition System using Haar Classifier," 2021 International Conference on Smart Generation Computing, Communication and Networking (SMART GENCON), Pune, India, 2021, pp. 1-7, doi: 10.1109/SMARTGENCON51891.2021.9645879. https://ieeexplore.ieee.org/abstract/document/9645879
 
+colab-webcam https://github.com/theAIGuysCode/colab-webcam
+
 ## Tools
 Haarcascades https://github.com/opencv/opencv/tree/master/data/haarcascades
 
