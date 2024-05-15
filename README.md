@@ -13,7 +13,8 @@ This Python code allows you to capture images from your webcam and detect specif
 - Customizable file names based on the detected object type
 
 ## Results
-Captured Eyes
+
+### Captured Eyes
 ![](https://github.com/ericyoc/google_co-lab_haarcascade_capture_poc/blob/main/captured_eyes_with_menu.jpg)
 
 ## Prerequisites
