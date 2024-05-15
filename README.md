@@ -10,6 +10,10 @@ colab-webcam https://github.com/theAIGuysCode/colab-webcam
 ## Tools
 Haarcascades https://github.com/opencv/opencv/tree/master/data/haarcascades
 
+Google Colab: Access Webcam for Images and Video https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw
+
+Cascade Classification https://colab.research.google.com/github/computationalcore/introduction-to-opencv/blob/master/notebooks/4-Cascade_classification.ipynb
+
 ## Features
 
 - Real-time video stream from the webcam
